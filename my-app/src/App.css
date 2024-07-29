@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: flex-end;
+  background-image:url('https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95c3a34f9.png');
+}
+.button-container {
+  margin-top: auto;
+  margin-bottom: 20px; 
+  text-align: center;
+  
+}
+
